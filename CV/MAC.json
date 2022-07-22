@@ -1,0 +1,227 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Mohacyr",
+      "surnames": "Rojas Meseguer",
+      "title": "// TODO: write hedline",
+      "description": "As a self taught developer I started programming as a hobby but soon it turns to a passion. I'm always open to learn an share my knowledge.",
+      "location": {
+        "notes": "Mexico"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/MHCYR"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/moharm/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sngular",
+          "URL": "https://www.sngular.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Worked with a banking institution developing a friendly and secure journey for clients to acquire a credit card."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Litelement",
+                "type": "technology"
+              },
+              {
+                "name": "Polymer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "OS CITY",
+          "URL": "https://www.os.city/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "GovTech startup that helps authorities to provide citizen-centric digital services."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nuxt.js",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Polymer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Litelement",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum Fundamentals Certified (SFC™)",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "SCRUMstudy ",
+          "URL": "https://www.scrumstudy.com/certification/verify?type=SFC&number=908012"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript Algorithms and Data Structures",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "freeCodeCamp",
+          "URL": "https://www.freecodecamp.org/certification/mhcyr/javascript-algorithms-and-data-structures"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Environmental engineer ",
+        "startDate": "2014-08-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "Instituto Politécnico Nacional IPN"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/moharm/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Solidity",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
