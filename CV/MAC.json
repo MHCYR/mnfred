@@ -247,6 +247,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "Polymer",
+          "type": "technology"
+        },
+        {
           "name": "WordPress",
           "type": "technology"
         }
